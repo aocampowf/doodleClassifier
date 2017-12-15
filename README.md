@@ -8,4 +8,4 @@ Making sweet interactive layouts from wireframe sketches
 
 Then go to the folder where you saved `server` and run
 
-`node server.js`
+`npm run serve` and `npm run start`
