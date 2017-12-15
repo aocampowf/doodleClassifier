@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Sofia Pro', Arial, sans-serif;
+  font-size: 16px;
+  background-color: #f6f4ee;
+}
+
+p {
+  margin: 0;
+}
+
+.ProductCard {
+  background: white;
+  width: 300px;
+  padding: .5rem;
+  position: relative;
+}
+
+.ProductCard-innerWrap {
+}
+
+.ProductCard h3 {
+  margin: 1rem 0 .5rem;
+}
+
+.ProductCard-image {
+  width: 100%;
+}
+
+.ProductCard-flag {
+  top: 0;
+  left: 0;
+  border-top-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  background-color: #3a7585;
+  font-size: .813rem;
+  color: #fff;
+  padding: .5em 1.2em;
+  line-height: 1;
+  position: absolute;
+  text-align: center;
+  z-index: 4;
+}
+
+.ProductCard-price {
+  font-size: 1.5rem;
+  margin: 1rem 0;
+}
