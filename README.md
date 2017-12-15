@@ -7,4 +7,5 @@ Making sweet interactive layouts from wireframe sketches
 `npm install node-osc`
 
 Then go to the folder where you saved `server` and run
+
 `node server.js`
