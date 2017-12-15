@@ -1,7 +1,7 @@
 <DoodleOSC>
-	<ip>10.10.44.125</ip>
-	<port>8080</port>
-	<address>/classification</address>
+	<ip>0.0.0.0</ip>
+	<port>3333</port>
+	<address>/</address>
     <classes>
         <class>circle</class>
         <class>productcard</class>
