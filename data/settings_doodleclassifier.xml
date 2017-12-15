@@ -1,12 +1,12 @@
 <DoodleOSC>
-	<ip>127.0.0.1</ip>
-	<port>5000</port>
+	<ip>10.10.44.125</ip>
+	<port>8080</port>
 	<address>/classification</address>
     <classes>
         <class>circle</class>
-        <class>star</class>
-        <class>arrow</class>
         <class>productcard</class>
-        <class>button</class>
+        <class>breadcrumbs</class>
+        <class>customselect</class>
+        <class>arrow</class>
     </classes>
 </DoodleOSC>
