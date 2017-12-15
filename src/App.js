@@ -5,7 +5,7 @@ import ProductCard from './ProductCard.js';
 
 class App extends Component {
   componentDidMount() {
-    const socket = new WebSocket('localhost');
+    const socket = new WebSocket('ws://localhost');
     socket.onmessage = this.handleMessage;
   }
   state = {
