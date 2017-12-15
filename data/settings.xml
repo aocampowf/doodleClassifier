@@ -1,0 +1,14 @@
+<DoodleClassifier>
+	<circle>0</circle>
+	<Run>0</Run>
+	<CV_initial>
+		<Min_area>2.51531</Min_area>
+		<Max_area>138.48</Max_area>
+		<Threshold>61.148</Threshold>
+		<Dilations>2</Dilations>
+	</CV_initial>
+<DoodleClassifier/>
+<arrow>2</arrow>
+<star>1</star>
+<productcard>3</productcard>
+</DoodleClassifier>
